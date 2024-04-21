@@ -1,0 +1,20 @@
+{
+  "name": "typescript-essential-training",
+  "version": "1.0.0",
+  "description": "Typescript essential training, from LinkedIn Learning",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "keywords": [
+    "typescript"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.4.5"
+  },
+  "dependencies": {
+    "@types/jquery": "^3.5.29"
+  }
+}
