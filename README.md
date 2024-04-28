@@ -10,7 +10,7 @@ Node is required for this project
 npm i
 ```
 
-Globallky install Typescript compiler 
+Globally install Typescript compiler 
 
 ```bash
 npm i -g typescript
